@@ -1,0 +1,16 @@
+__pycache__
+.vscode
+.DS_Store
+venv
+*.pyc
+enviroment.env
+Pipfile
+env/
+*.sqlite3
+build
+*/node_modules
+node_modules/
+credential-helper.sh
+build.sh
+static
+staticfiles
